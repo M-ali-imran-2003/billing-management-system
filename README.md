@@ -36,6 +36,30 @@ This was my milestone project during my first semester as a Computer Science stu
 - Logic Building
 - Real-world Software Development Practices
 
+## 🔄 Workflow
+
+This diagram explains the overall billing flow within the application:
+
+![Admin Workflow](Screenshots/admin_workflow.JPG)
+![System Workflow](Screenshots/system_workflow.JPG)
+
+---
+
+## 🖥️ UI 
+
+### 🔐 Login Screen
+
+![Login Page](Screenshots/login_page.JPG)
+
+### 📊 Dashboards
+
+![Admin Dashboard](Screenshots/admin_dashboard.JPG)
+![Cashier Dashboard](Screenshots/cashier_dashboard.JPG)
+
+### 📄 Invoice 
+![Invoice](Screenshots/invoice.JPG)
+
+
 ## 🚀 Getting Started
 
 1. Clone the repository:
