@@ -25,7 +25,6 @@ The Billing Management System is a desktop-based application tailored for small 
 - **C# (.NET Framework)**
 - **Windows Forms (WinForms)**
 - **Object-Oriented Programming (OOP)**
-- *(Optional: SQL Server / File Storage depending on your actual setup)*
 
 ## 🎓 Academic Context
 
