@@ -31,9 +31,10 @@ The Billing Management System is a desktop-based application tailored for small 
 
 This was my milestone project during my first semester as a Computer Science student. It helped me strengthen my programming foundation, especially in:
 
+- Programming Fundamentals(PF)
 - Object-Oriented Programming (OOP)
-- Data Structures
-- Algorithm Design
+- File Handling
+- Logic Building
 - Real-world Software Development Practices
 
 ## 🚀 Getting Started
